@@ -46,7 +46,7 @@ end
 def matrix_lookup(matrix, row, column)
   # Return the matrix's content at row and column
   
-  matrix_lookup[assembled_matrix][1][2]
+  assembled_matrix[1][2]
 end
 
 def matrix_update(matrix, row, column, new_value)
