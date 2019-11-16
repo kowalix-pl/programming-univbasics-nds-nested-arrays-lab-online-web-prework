@@ -56,7 +56,7 @@ def matrix_update(matrix, row, column, new_value)
 
       local_copy_of_matrix = assembled_matrix.dup
       local_copy_of_matrix[0][2]= "Tiny Ewell"
-result = local_copy_of_matrix
+      result = local_copy_of_matrix
 
 end
 
