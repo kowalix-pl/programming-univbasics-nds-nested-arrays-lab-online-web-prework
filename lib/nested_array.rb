@@ -55,6 +55,6 @@ def matrix_update(matrix, row, column, new_value)
   # Return the updated matrix
     
   ENNET_HOUSE[0][2] = "Tiny Ewell",
-  assembled_matrix
+ENNET_HOUSE
 end
 
